@@ -10,7 +10,7 @@ A tool for visualizing protein sequence embeddings across transformer layers.
   | |  | | |___| |_____| |_ / . \\ 
   |_|  |_|\\____/\\_____/\\___/_/ \\_\\
 
-Author: [Your Name]
+Author: David Nelson
 Date: October 2024
 """
 
