@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="HELIX-Hidden-Embedding-Layer-Information-eXplorer banner" width="100%">
+</p>
+
 # HELIX: Hidden Embedding Layer Information eXplorer
 
 ```ascii
