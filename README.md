@@ -50,7 +50,7 @@ pip install tqdm
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/helix.git
+git clone https://github.com/olympus-terminal/HELIX-Hidden-Embedding-Layer-Information-eXplorer.git
 cd helix
 ```
 
@@ -171,7 +171,7 @@ If you use HELIX in your research, please cite:
   title={HELIX: Hidden Embedding Layer Information eXplorer},
   author={Nelson, David},
   year={2024},
-  url={https://github.com/username/helix}
+  url={https://github.com/olympus-terminal/HELIX-Hidden-Embedding-Layer-Information-eXplorer}
 }
 ```
 
@@ -184,6 +184,6 @@ If you use HELIX in your research, please cite:
 
 ## Contact
 
-David Nelson - [GitHub Profile](https://github.com/username)
+David Nelson - [GitHub Profile](https://github.com/olympus-terminal)
 
-Project Link: [https://github.com/username/helix](https://github.com/username/helix)
+Project Link: [https://github.com/olympus-terminal/HELIX-Hidden-Embedding-Layer-Information-eXplorer](https://github.com/olympus-terminal/HELIX-Hidden-Embedding-Layer-Information-eXplorer)
